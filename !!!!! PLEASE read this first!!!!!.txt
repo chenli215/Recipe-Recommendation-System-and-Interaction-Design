@@ -1,0 +1,9 @@
+
+
+Sorry Professor Shang, we did not finish the completed GUI code since we learned how to code GUI from the begining and limited time.
+
+The "GUI structure" file  is an almost finished edition code but the pity is that our MLPClassifier function on it can not perfectly run. Every time we put in the independent variables and click "predict", there was an error that we could not fix. 
+
+The "GUI successful run easy edition" file is the one which can apply MLPClassifier function but an easy edition which successfully shows our GUI purpose which allows customers to type in three variables and print out the final review results based on sentiment analysis.
+
+Also, we tried to change it into exe. file but we found that MLPClassifier has issue to allow us to change it into exe with tkinter. We hope to finish this after class end with the help of professor shang, because we believe that this GUI should be very sweet if we finish it. 
